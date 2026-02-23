@@ -1,6 +1,6 @@
 
 <body>
-  <h1 align="center">✨ Hi 👋, I'm Ana ✨</h1>
+  <h1 align="center">✨ Hi, I'm Ana ✨</h1>
   <h3 align="center">🎧 Audio & Software Engineer 💻</h3>
 
   <p align="center">💬 Ask me about <strong>audio, cybersecurity, and coding</strong></p>
